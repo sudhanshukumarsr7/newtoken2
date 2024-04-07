@@ -1,0 +1,15 @@
+{
+    "name": "token07",
+    "description": "crowdfunding for educational institution",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcW0xV1O4MQGjMnfcuauEDWWaeH6c9DmlOyf4tfq3lg&s",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
